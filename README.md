@@ -4,7 +4,7 @@
 **myungseonSim/myungseonSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={myungseonSim})](https://solved.ac/{myungseonSim})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={audtjs98119@gmail.com})](https://solved.ac/{audtjs98119@gmail.com})
 
 Here are some ideas to get you started:
 
