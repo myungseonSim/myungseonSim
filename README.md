@@ -1,10 +1,13 @@
-### Hi there 👋
+### myungseonSim 👋
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmyungseonSim&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <!--
 **myungseonSim/myungseonSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=audtjs981)](https://solved.ac/audtjs981/)
 Here are some ideas to get you started:
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=audtjs981)](https://solved.ac/audtjs981/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
