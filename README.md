@@ -9,7 +9,7 @@
 ## 📫 **Contact.**
 
 - Email.   **audtjs98119@gmail.com**
-- [Notion Link.](https://www.notion.so/102e2767549080719566d5f0ab950454)
+- [Notion forfoilo.](https://www.notion.so/102e2767549080719566d5f0ab950454)
 
 <br>
 
@@ -17,7 +17,6 @@
 ## 📚 **Introduce.**
 
 - **혼자서 데이터 파이프라인 ETL, elasticsearch 구축 경험이 있습니다.
-**ERD 설계**부터 **아키텍처 설계, 구현, AWS환경에서 배포**까지 진행하였고, **리팩토링**을 통해 개선했습니다.
 - **팀 프로젝트**에 참가하여 팀장직으로 재미있게 개발을 진행하였습니다.
 - 팀과 함께 개발을 하며 도움을 주고 받는 것을 추구합니다.
 
